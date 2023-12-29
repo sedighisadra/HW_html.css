@@ -52,3 +52,23 @@ button{
 .color5{
     background-color: #FFD0D0;
 }
+#size_tab{
+    width: 80px;
+    height: 50px;
+}
+#size_caps{
+    width: 110px;
+    height: 50px;
+}
+#size_delet{
+    width: 110px;
+    height: 50px;
+}
+#size_return{
+    width: 110px;
+    height: 50px;
+}
+#size_shift{
+    width: 130px;
+    height: 50px;
+}
